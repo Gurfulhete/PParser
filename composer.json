@@ -1,0 +1,16 @@
+{
+    "name": "vendor/p-parser",
+    "description": "Description of project PParser.",
+    "authors": [
+        {
+            "name": "user",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "symfony/dom-crawler": "^5.4",
+        "symfony/http-client": "^5.4",
+        "symfony/css-selector": "^5.4",
+        "phpoffice/phpspreadsheet": "^1.25"
+    }
+}
